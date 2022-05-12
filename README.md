@@ -1,10 +1,10 @@
-# 2022-07-workshop
+# Beginner Coding Workshop
 
-This beginner coding workshop will be in person in OKC on Saturday, July 16, 2022. We'll start at 1:00 pm and go until 5:00 pm. The exact location has not been determined yet.
+This workshop will be in person in OKC on Saturday, July 16, 2022. We'll start at 1:00 pm and go until 5:00 pm. The exact location has not been determined yet.
 
 Our audience is adults learning about coding with HTML and CSS for the first time. Coaches will be experienced developers. 
 
-We expect to have about 20 attendees, a facilitator, 7-8 coaches, and 1-2 general volunteers. Members of underrepresented groups are highly encouraged to attend.
+We expect to have about 20 attendees, a facilitator, 7-8 coaches, and 1-2 general volunteers. Members of underrepresented groups are highly encouraged to apply and attend.
 
 [Attendee Application](https://docs.google.com/forms/d/e/1FAIpQLSeb4bYLGwhJ3mVwyR1k2Lb3oSBWj78aKzbTE7Rs4ec99GQSIA/viewform)
 * We'll review applications as we receive them, contact you with any follow-up questions, and let you know whether your application is accepted as soon as we can.
