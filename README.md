@@ -2,6 +2,11 @@
 
 This workshop will be in person in OKC on Saturday, July 16, 2022. We'll start at 1:00 pm and go until 5:00 pm. The exact location has not been determined yet.
 
+[freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/responsive-web-design/)
+* We'll start with the Basic HTML and Basic CSS sections on freeCodeCamp and get as far as we can!
+
+## Participants
+
 Our audience is adults learning about coding with HTML and CSS for the first time. Coaches will be experienced developers. 
 
 We expect to have about 20 attendees, a facilitator, 7-8 coaches, and 1-2 general volunteers. Members of underrepresented groups are highly encouraged to apply and attend.
@@ -12,12 +17,11 @@ We expect to have about 20 attendees, a facilitator, 7-8 coaches, and 1-2 genera
 [Coach Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLSfQII7GAMlG-XgO5PefGD_bLuqxQ76MZXY9K4Rm8XDVDZMA5w/viewform)
 * We need some coaches for this workshop! Coaching is pretty low-key and low-stress.
 
+## Sponsors
+
+We’re looking for sponsors to cover the costs for this workshop so that it’s free for community members to attend. 
+
 [Sponsorship Prospectus](https://docs.google.com/document/d/1cb-JiSC0PUUhCimi4PpqfZhoYqw_ryYgoegZfWyMcZY/edit)
-* We’re looking for sponsors to cover the costs for this workshop so that it’s free for community members to attend.
 
-[freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/responsive-web-design/)
-* We'll start with the Basic HTML and Basic CSS sections on freeCodeCamp and get as far as we can!
-
-Sponsors
 * [Canyon Trail](https://canyon-trail.com/)
 
