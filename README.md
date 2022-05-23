@@ -1,6 +1,6 @@
 # Beginner Coding Workshop
 
-This workshop will be in person in OKC on Saturday, July 16, 2022. We'll start at 1:00 pm and go until 5:00 pm. The exact location has not been determined yet.
+This workshop will be in person in OKC on Saturday, July 16, 2022. We'll start at 1:00 pm and go until 5:00 pm. The exact location has not been determined yet. This event is free to attendees because of our sponsors!
 
 [freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/responsive-web-design/)
 * We'll start with the Basic HTML and Basic CSS sections on freeCodeCamp and get as far as we can!
