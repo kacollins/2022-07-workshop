@@ -24,4 +24,4 @@ We’re looking for sponsors to cover the costs for this workshop so that it’s
 [Sponsorship Prospectus](https://docs.google.com/document/d/1cb-JiSC0PUUhCimi4PpqfZhoYqw_ryYgoegZfWyMcZY/edit)
 
 * [Canyon Trail](https://canyon-trail.com/)
-
+* [IMMY](https://www.immy.com/)
