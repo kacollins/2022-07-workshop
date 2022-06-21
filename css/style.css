@@ -187,6 +187,11 @@ p {
     overflow: hidden;
 }
 
+.cards img {
+    height: auto;
+    width: 80%;
+    margin-left: 50%;
+}
 
 /* Media Query */
 @media (max-width:768px) {
@@ -210,11 +215,5 @@ p {
 
     .banner {
         text-align: center;
-    }
-
-    .cards img {
-        height: auto;
-        width: 80%;
-        margin-left: 50%;
     }
 }
